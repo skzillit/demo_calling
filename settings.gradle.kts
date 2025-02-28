@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Demo Video Calling"
 include(":app")
- 
+include(":mediasoup-client")
+include(":myapplication")
